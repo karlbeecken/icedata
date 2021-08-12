@@ -1,1 +1,1 @@
-export function fetchAll();
+export function fetchAll(): Promise<undefined>;
