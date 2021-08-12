@@ -1,6 +1,6 @@
 {
   "name": "icedata",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A library to fetch telemetry data from German highspeed trains",
   "main": "app.js",
   "types": "app.d.ts",
