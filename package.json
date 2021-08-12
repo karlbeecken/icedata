@@ -1,0 +1,34 @@
+{
+  "name": "icedata",
+  "version": "1.0.0",
+  "description": "A library to fetch telemetry data from German highspeed trains",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlbeecken/icedata.git"
+  },
+  "keywords": [
+    "ice",
+    "db",
+    "deutschebahn",
+    "api",
+    "axios"
+  ],
+  "author": "Karl Beecken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlbeecken/icedata/issues"
+  },
+  "homepage": "https://github.com/karlbeecken/icedata#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "typescript": "^4.3.5"
+  }
+}
