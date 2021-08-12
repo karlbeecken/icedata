@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "A library to fetch telemetry data from German highspeed trains",
   "main": "app.js",
+  "types": "app.d.ts",
   "scripts": {
     "start": "node app.js",
     "test": "jest"
